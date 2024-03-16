@@ -1,0 +1,4 @@
+click
+kafka-python
+pandas
+pyspark
